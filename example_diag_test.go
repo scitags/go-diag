@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/florianl/go-diag"
+	"github.com/scitags/go-diag"
 )
 
 func ExampleDiag() {

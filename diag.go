@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/florianl/go-diag/internal/unix"
 	"github.com/mdlayher/netlink"
+	"github.com/scitags/go-diag/internal/unix"
 )
 
 // diagConn defines a subset of netlink.Conn.

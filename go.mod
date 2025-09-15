@@ -1,4 +1,4 @@
-module github.com/florianl/go-diag
+module github.com/scitags/go-diag
 
 go 1.18
 

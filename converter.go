@@ -5,7 +5,7 @@ import (
 	"net/netip"
 	"unsafe"
 
-	"github.com/florianl/go-diag/internal/unix"
+	"github.com/scitags/go-diag/internal/unix"
 )
 
 func stringPtr(v string) *string {

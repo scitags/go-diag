@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/florianl/go-diag/internal/unix"
 	"github.com/mdlayher/netlink"
+	"github.com/scitags/go-diag/internal/unix"
 )
 
 const (
