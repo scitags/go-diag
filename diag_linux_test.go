@@ -9,7 +9,7 @@ import (
 	"net/netip"
 	"testing"
 
-	"github.com/florianl/go-diag/internal/unix"
+	"github.com/scitags/go-diag/internal/unix"
 )
 
 func TestDiagTCP(t *testing.T) {
